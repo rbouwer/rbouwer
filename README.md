@@ -10,8 +10,6 @@
 
 ## Welcome to my GitHub! 👋😊
 
-I am a Masters of Data Science student at the University of British Columbia. Before this, I worked as a Data Engineer after completing my undergrad in Applied Mathematics and Computer Engineering at Queen's University.
-
 ### About Me!
 
 🔭 I am studying a Masters of Data Science at the University of British Columbia (graduating in June 2024 🎓)
