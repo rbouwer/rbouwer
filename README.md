@@ -14,7 +14,7 @@
 
 🔭 I am studying a Masters of Data Science at the University of British Columbia (graduating in June 2024 🎓)
 
-👨‍🏫 I spent two years working as a Data Engineer after completing my undergrad in Applied Mathematics and Computer Engineering at Queen's University
+👨‍🏫 I worked for two years as a Data Engineer after completing my undergrad in Applied Mathematics and Computer Engineering at Queen's University
 
 🌱 I enjoy machine learning and have completed multiple supervised learning projects - and am currently learning more about unsupervised learning
 
