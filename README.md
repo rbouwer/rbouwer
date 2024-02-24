@@ -1,6 +1,6 @@
 # Rachel Bouwer 
 
-<a href="https://www.linkedin.com/in/rbouwer/">
+<a href="https://www.linkedin.com/in/rachel-bouwer/">
   <img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-linkedin-3.png&r=0&g=0&b=0" alt="linkedin" width=30 height=auto>
 </a>
 
